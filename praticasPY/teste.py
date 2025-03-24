@@ -1,22 +1,22 @@
 # print("hello world")
 
 
-# numero1 = int(input("Digite um número"))
-# print("O número informado foi",  numero1)
+# # numero1 = int(input("Digite um número"))
+# # print("O número informado foi",  numero1)
 
 
-# num1 = int(input("Digite um número"))
-# num2 = int(input("Digite outro número"))
+# # num1 = int(input("Digite um número"))
+# # num2 = int(input("Digite outro número"))
 
-# soma = num1 + num2
-# print("A soma dos números é igual a", soma)
+# # soma = num1 + num2
+# # print("A soma dos números é igual a", soma)
 
 
-# nota1 = float(input("Digite sua 1º nota"))
-# nota2 = float(input("Digite sua 2º nota"))
-# nota3 = float(input("Digite sua 3º nota"))
-# nota4 = float(input("Digite sua 4º nota"))
-# aluno = "Luiza"
+# # nota1 = float(input("Digite sua 1º nota"))
+# # nota2 = float(input("Digite sua 2º nota"))
+# # nota3 = float(input("Digite sua 3º nota"))
+# # nota4 = float(input("Digite sua 4º nota"))
+# # aluno = "Luiza"
 # media = (nota1 + nota2 + nota3 + nota4)/4
 
 # print("A média da aluna", aluno, "foi", media)
